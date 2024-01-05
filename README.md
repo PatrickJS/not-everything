@@ -12,4 +12,4 @@ npm install everything
 
 
 # latest version 2.0.0 is impossible to publish on NPM
-due to npm having 10mb compressed package size limit the package.json alone being 83mb is currently 15mb compressed
+due to npm having 10mb compressed package size limit the package.json alone being 83mb is currently 15mb compressed.
